@@ -1,0 +1,83 @@
+
+[
+    {
+      "Name": "MK",
+      "City": "829 Pracha Rat Sai 2 Rd, Bang Sue",
+      "Cuisine Style": "['restaurant', 'food', 'point_of_interest','establishment']",
+      "Rating": 3.9,
+      "Number of Reviews": 22
+    },
+    {
+      "Name": "Bella Casa",
+      "City": "9 11 ถนน เทอดดำริห์ Bang Sue",
+      "Cuisine Style": "['Dutch', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",
+      "Rating": 4.1,
+      "Number of Reviews": 267
+    },
+    {
+      "Name": "Kumamura Food.Bar",
+      "City": "662 Rd, Techawanit, Bang Sue",
+      "Cuisine Style": "['Mediterranean', 'French', 'International', 'European', 'Vegetarian Friendly', 'Vegan Options']",
+      "Rating": 4.1,
+      "Number of Reviews": 104
+    },
+    {
+      "Name": "สีฟ้า SEE FAH Restaurant Tesco Lotus Prachachuen",
+      "City": "829, Tesco Lotus Prachachuen Pracha Rat Road, Soi 2, Wong Sawang, Bang Sue",
+      "Cuisine Style": "['French', 'European', 'International', 'Contemporary', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",
+      "Ranking": 3.9,
+      "Number of Reviews": 27
+    },
+    {
+      "Name": "ร้านข้าวแกงเตาปูน(ป้าจำเริญ) ซอย 4",
+      "City": "Krungthep-Nonthaburi 4 Alley, Bang Sue",
+      "Cuisine Style": "['Dutch', 'European', 'International', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",
+      "Rating": 4.3,
+      "Number of Reviews": 114
+    },
+    {
+      "Name": "The 99 Eatery",
+      "City": "99 Rim Khlong Prapa Rd, Bang Sue",
+      "Cuisine Style": "['Contemporary', 'International', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",
+      "Rating": 3.7,
+      "Number of Reviews": 4
+    },
+    {
+      "Name": "Esan Lamplen",
+      "City": "304/34 Rim Khlong Prapa Fang Khwa Rd, Bang Sue",
+      "Cuisine Style": "['French', 'International', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",
+      "Rating": 3.9,
+      "Number of Reviews": 149
+    },
+    {
+      "Name": "นงนุชเป็ดย่าง ตลาดเตาปูน",
+      "City": "44 50 Pracha Chuen Rd, Bang Sue",
+      "Cuisine Style": "['Asian', 'Indonesian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",
+      "Rating": 5,
+      "Number of Reviews": 1
+    },
+    {
+      "Name": "McDonald's",
+      "City": "829 เทสโก้โลตัส สาขาประชาชื่น ถนน ประชาราษฎร์ 2 Bang Sue",
+      "Cuisine Style": "['Japanese', 'Asian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",
+      "Rating": 3,
+      "Number of Reviews": 13
+    },
+    {
+      "Name": "อร่อยในบ้าน",
+      "City": "155 Rim Khlong Prapa Fang Khwa Rd, Bang Sue",
+      "Cuisine Style": "['Dutch', 'Seafood', 'Fast Food']",
+      "Rating": 4.3,
+      "Number of Reviews": 26
+    },
+    {
+      "Name": "Hachiban Ramen",
+      "City": "829, Tesco Lotus Prachachuen, 1st Floor, Pracharat Sai 2 Road, Bang Sue, Khet Bang Sue, Bangkok, 10800",
+      "Cuisine Style": "['American', 'Bar', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",
+      "Rating": 3.5,
+      "Number of Reviews": 10
+    }
+  ]
+    
+    
+ 
