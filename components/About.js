@@ -6,9 +6,6 @@ const about = () => {
         <Container>
             <h1>About me</h1>
             <h5>Photo of me:</h5>
-            <Media left href="#">
-            <Media object data-src="myImage.jpg" alt="Img" />
-            </Media>
             <Row>
                 <Col xs="8">
                     <h1>CHANAPAI  LIMSUWANKESORN</h1>
